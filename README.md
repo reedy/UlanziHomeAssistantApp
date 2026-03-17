@@ -16,7 +16,7 @@ To get started with this project, you will need the following:
 
 ### Step 1:
 You can follow the tutorial of [Smart Home Junkie](https://youtu.be/N0NKPJzGHuA?t=252)
-- Flash the ULANZI TC001 and install [AWTRIX Light](https://blueforcer.github.io/awtrix-light/#/flasher)
+- Flash the ULANZI TC001 and install [AWTRIX Light](https://blueforcer.github.io/awtrix3/#/flasher)
 - Connect the ULANZI TC001 to the network from the wifi hotspot
 - Install Mosquitto broker on Home Assistant
 - Configure a MQTT User
@@ -25,7 +25,7 @@ You can follow the tutorial of [Smart Home Junkie](https://youtu.be/N0NKPJzGHuA?
 ![awtrix_homeassistant](https://user-images.githubusercontent.com/33576918/233953669-be31a444-31f6-4630-82b2-d28e3a48fbef.png)
 
 ### Step 2:
-Configure a new custom app to the [ULANZI AWTRIX Light Firmware](https://blueforcer.github.io/awtrix-light/#/api?id=custom-apps-and-notifications)
+Configure a new custom app to the [ULANZI AWTRIX Light Firmware](https://blueforcer.github.io/awtrix3/#/api?id=custom-apps-and-notifications)
 - From Home Assistant, go to configure in Mosquitto broker:
 
 ![image](https://user-images.githubusercontent.com/33576918/233955386-92aff33f-5029-4198-8f90-1ee67654b965.png)
